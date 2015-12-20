@@ -9,7 +9,7 @@ import pytest
 import bgw_dl
 
 
-class TestBgw-dl(object):
+class TestBgw_dl(object):
     @classmethod
     def set_up(self):
         pass
