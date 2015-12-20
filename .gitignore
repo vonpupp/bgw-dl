@@ -57,3 +57,6 @@ output/*/index.html
 
 # Sphinx docs
 docs/_build
+
+# Cache
+.cache

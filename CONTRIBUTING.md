@@ -36,7 +36,7 @@ Look through the [GitHub issues][issues] for bugs. Anything tagged with "bug" is
 Look through the [GitHub issues][issues] for features. Anything tagged with "feature" is open to whoever wants to implement it.
 
 ### Write Documentation
-Vanguard Boilerplate could always use more documentation, whether as part of the official Vanguard Boilerplate docs, in inline docstrings, or even on the web in blog posts, articles, and such.
+bgw-dl could always use more documentation, whether as part of the official bgw-dl docs, in inline docstrings, or even on the web in blog posts, articles, and such.
 
 If you have written your own tutorial or review of the software, please consider adding a refferal link to the repository.
 
@@ -50,7 +50,7 @@ If you are requesting a feature:
 
 
 ## Get Started!
-Ready to contribute? Here's how to set up `Vanguard Boilerplate` for local development.
+Ready to contribute? Here's how to set up `bgw-dl` for local development.
 
 > Over time my ambition is to provide a reproducable and automated setup through Vagrant.
 

@@ -1,4 +1,4 @@
-# Vanguard Boilerplate [![PyPI version][fury-image]][fury-url] [![Build Status][travis-image]][travis-url]
+# bgw-dl [![PyPI version][fury-image]][fury-url] [![Build Status][travis-image]][travis-url]
 Biblegateway.com Bible audio downloader
 
 
@@ -29,3 +29,8 @@ MIT. See the [LICENSE](LICENSE) file for more details.
 
 [travis-url]: https://travis-ci.org/vonpupp/bgw-dl
 [travis-image]: https://travis-ci.org/vonpupp/bgw-dl.png?branch=develop
+
+
+## TODOs
+
+- [x] Fix error hyphen on tests

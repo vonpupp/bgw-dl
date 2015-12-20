@@ -1,5 +1,5 @@
 ---
-site_name: Vanguard Boilerplate Docs
+site_name: bgw-dl Docs
 repo_url: https://github.com/vonpupp/bgw-dl
 dev_addr: "0.0.0.0:4000"
 theme: bootstrap
